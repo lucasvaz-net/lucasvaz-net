@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lucas Vaz 👋
 
 - 🔭 Atualmente, sou Lider de TI com foco em Infraestrutura, Suporte e Redes,
-  mas desenvolvo em ASP.NET CORE | ASP.NET Framework MVC | SQL Server | C#
+  mas Estudo desenvolvimento em ASP.NET CORE | ASP.NET Framework MVC | SQL Server | C#
 - 🌱 Estudando .NET
 - 📫 Contate-me no e-mail: contato@lucasvaz.net
 
