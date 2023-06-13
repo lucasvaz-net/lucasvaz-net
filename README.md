@@ -3,7 +3,7 @@
 - 🔭 Atualmente, sou Tech Lead com foco em Infraestrutura, Suporte e Redes,
   mas Estudo desenvolvimento em ASP.NET CORE | ASP.NET Framework MVC | SQL Server | C#
 - 🌱 Estudando .NET
-- 📫 Contate-me no e-mail: contato@lucasvaz.net
+- 📫 Contate-me no e-mail: contato@lucasvaz.dev.br
 
 <p>
   <a href="https://www.linkedin.com/in/lucasvazti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
