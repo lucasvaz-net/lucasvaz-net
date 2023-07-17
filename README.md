@@ -34,7 +34,6 @@
 </div>
   
 ##
-  
-<!-- pic creator -->
+
   
 <!-- cobrinha de commit -->
