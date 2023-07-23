@@ -78,6 +78,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lucasvaz-net/lucasvaz-net/output/snake.svg" alt="Snake animation" />
-
 ###
