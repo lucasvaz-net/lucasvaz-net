@@ -1,8 +1,13 @@
-<h1 align="left">Olá, eu sou o Lucas Vaz 👋</h1>
+<h1 align="left">Olá, sou o Lucas Vaz 👋</h1>
+<p align="left">
+Olá a todos que passam por aqui! Eu sou o Lucas, um entusiasta da tecnologia que adora explorar diferentes facetas da computação. 🔭<br><br>
+Embora tenha experiência como Tech Lead e trabalhe há algum tempo com Infraestrutura, Suporte e Redes, minha verdadeira paixão é pelo desenvolvimento. No momento, estou me dedicando ao estudo de .NET, ASP.NET Core e MVC, SQL Server e C#. 🌱<br><br>
 
-###
+Sei que há sempre espaço para melhorar e aprender, e é isso que busco todos os dias. Aqui no GitHub, você encontrará projetos que refletem minha jornada de aprendizado e minha paixão por criar soluções úteis.<br><br>
 
-<p align="left">Olá, seja bem-vindo ao meu perfil do GitHub!<br><br>Sobre mim 🔭<br>Sou o Lucas Vaz, um profissional com experiência como Tech Lead, com foco em Infraestrutura, Suporte e Redes. Além disso, estou sempre buscando expandir meus conhecimentos e atualmente estudo desenvolvimento em ASP.NET Core, ASP.NET Framework MVC, SQL Server e C#.<br><br>Atualmente, estou 🌱<br>Estou dedicado aos estudos de .NET e suas diversas ferramentas e tecnologias, buscando aprimorar minhas habilidades em desenvolvimento.<br><br>Entre em contato 📫<br>Se você quiser entrar em contato comigo, sinta-se à vontade para enviar um e-mail para contato@lucasvaz.dev.br. Você também pode visitar meu portfolio lucasvaz.dev.br<br><br>Fique à vontade para explorar meus projetos e contribuições aqui no GitHub. Espero que encontre algo útil ou interessante! 😊</p>
+Se quiser bater um papo, trocar ideias ou até mesmo colaborar em algum projeto, fique à vontade para entrar em contato! Pode me mandar um e-mail para <a href="mailto:contato@lucasvaz.dev.br">contato@lucasvaz.dev.br</a> ou visitar meu <a href="https://lucasvaz.dev.br">portfolio</a>. 😊
+
+</p>
 
 ###
 
