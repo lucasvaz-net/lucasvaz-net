@@ -1,9 +1,8 @@
 <h1 align="left">Olá, sou o Lucas Vaz 👋</h1>
 <p align="left">
 Olá a todos que passam por aqui! Eu sou o Lucas, um entusiasta da tecnologia que adora explorar diferentes facetas da computação. 🔭<br><br>
-Embora tenha experiência como Tech Lead e trabalhe há algum tempo com Infraestrutura, Suporte e Redes, minha verdadeira paixão é pelo desenvolvimento. No momento, estou me dedicando ao estudo de .NET, ASP.NET Core e MVC, SQL Server e C#. 🌱<br><br>
-
-Sei que há sempre espaço para melhorar e aprender, e é isso que busco todos os dias. Aqui no GitHub, você encontrará projetos que refletem minha jornada de aprendizado e minha paixão por criar soluções úteis.<br><br>
+Atuo há 5 anos na área de Tecnologia. Tenho experiência em liderança de equipes, Administração de Banco de Dados, desenvolvimento C# (.NET Core), suporte a Sistemas, manutenção de hardware e projetos de rede. Destaco minha habilidade em solucionar problemas e adaptabilidade.
+<br><br>
 
 Se quiser bater um papo, trocar ideias ou até mesmo colaborar em algum projeto, fique à vontade para entrar em contato! Pode me mandar um e-mail para <a href="mailto:contato@lucasvaz.dev.br">contato@lucasvaz.dev.br</a> ou visitar meu <a href="https://lucasvaz.dev.br">portfolio</a>. 😊
 
