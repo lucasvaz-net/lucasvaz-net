@@ -4,7 +4,7 @@ Olá a todos que passam por aqui! Eu sou o Lucas, um entusiasta da tecnologia qu
 Atuo há 5 anos na área de Tecnologia. Tenho experiência em liderança de equipes, Administração de Banco de Dados, desenvolvimento C# (.NET Core), suporte a Sistemas, manutenção de hardware e projetos de rede. Destaco minha habilidade em solucionar problemas e adaptabilidade.
 <br><br>
 
-Se quiser bater um papo, trocar ideias ou até mesmo colaborar em algum projeto, fique à vontade para entrar em contato! Pode me mandar um e-mail para <a href="mailto:contato@lucasvaz.dev.br">contato@lucasvaz.dev.br</a> ou visitar meu <a href="https://lucasvaz.dev.br">portfolio</a>. 😊
+Se quiser bater um papo, trocar ideias ou até mesmo colaborar em algum projeto, se quiser, pode ver meu <a href="https://lucasvaz.dev.br/curriculo.pdf">curriculo</a>  fique à vontade para entrar em contato! Pode me mandar um e-mail para <a href="mailto:contato@lucasvaz.dev.br">contato@lucasvaz.dev.br</a> ou visitar meu <a href="https://lucasvaz.dev.br">portfolio</a>. 😊
 
 </p>
 
